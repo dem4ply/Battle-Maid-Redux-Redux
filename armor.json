@@ -10,7 +10,10 @@
                     "leg_l",
                     "leg_r"
                 ],
-                "encumbrance": 6
+                "encumbrance": [
+                    6,
+                    11
+                ]
             }
         ],
         "category": "clothing",
@@ -28,7 +31,6 @@
             "cotton"
         ],
         "material_thickness": 4,
-        "max_encumbrance": 11,
         "name": {
             "str": "Victorian maid dress",
             "str_pl": "Victorian maid dresses"
@@ -75,7 +77,10 @@
                     "leg_l",
                     "leg_r"
                 ],
-                "encumbrance": 5
+                "encumbrance": [
+                    5,
+                    10
+                ]
             }
         ],
         "category": "clothing",
@@ -91,7 +96,6 @@
             "cotton"
         ],
         "material_thickness": 1,
-        "max_encumbrance": 10,
         "name": {
             "str": "French maid dress",
             "str_pl": "French maid dresses"
@@ -123,7 +127,10 @@
                     "leg_l",
                     "leg_r"
                 ],
-                "encumbrance": 5
+                "encumbrance": [
+                    5,
+                    10
+                ]
             }
         ],
         "category": "clothing",
@@ -141,7 +148,6 @@
             "cotton"
         ],
         "material_thickness": 1,
-        "max_encumbrance": 10,
         "name": {
             "str": "strange French maid dress",
             "str_pl": "strange French maid dresses"
@@ -165,7 +171,10 @@
                     "arm_l",
                     "arm_r"
                 ],
-                "encumbrance": 8
+                "encumbrance": [
+                    8,
+                    17
+                ]
             }
         ],
         "category": "armor",
@@ -187,7 +196,6 @@
             "cotton"
         ],
         "material_thickness": 4,
-        "max_encumbrance": 17,
         "name": {
             "str": "survivor Victorian maid dress",
             "str_pl": "survivor Victorian maid dresses"
@@ -235,7 +243,10 @@
                     "leg_l",
                     "leg_r"
                 ],
-                "encumbrance": 9
+                "encumbrance": [
+                    9,
+                    15
+                ]
             }
         ],
         "artifact_data": {
@@ -257,7 +268,6 @@
             "cotton"
         ],
         "material_thickness": 4,
-        "max_encumbrance": 15,
         "name": {
             "str": "Jokyu dress",
             "str_pl": "Jokyu dresses"
@@ -372,7 +382,10 @@
                     "arm_l",
                     "arm_r"
                 ],
-                "encumbrance": 9
+                "encumbrance": [
+                    9,
+                    17
+                ]
             }
         ],
         "category": "armor",
@@ -395,7 +408,6 @@
         ],
         "material_thickness": 4,
         "max_charges": 12,
-        "max_encumbrance": 17,
         "name": {
             "str": "survivor tuxedo"
         },
