@@ -225,7 +225,6 @@
         ],
         "price": 110000,
         "repairs_like": "lsurvivor_suit",
-        "storage": 22,
         "symbol": "[",
         "type": "TOOL_ARMOR",
         "volume": "10500 ml",
@@ -579,7 +578,6 @@
             "str_pl": "tail panties"
         },
         "price": 5000,
-        "storage": 2,
         "symbol": "[",
         "type": "ARMOR",
         "volume": "250 ml",
